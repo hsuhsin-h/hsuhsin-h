@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hsuhsin-h/hsuhsin-h/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+![Snake animation](https://github.com/hsuhsin-h/hsuhsin-h/raw/output/github-contribution-grid-snake.svg)
